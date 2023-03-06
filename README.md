@@ -1,4 +1,4 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/QA-Automation-Starter/qa-automation/badge.svg)](https://snyk.io/test/github/QA-Automation-Starter/qa-automation)
+[![Known Vulnerabilities](https://snyk.io/test/github/ken-fugue/llamasnyk/badge.svg)](https://snyk.io/test/github/ken-fugue/llamasnyk)
 
 # LLaMA 
 
