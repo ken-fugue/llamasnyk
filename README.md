@@ -1,4 +1,4 @@
-<*a href="https://snyk.io/test/github/ken-fugue/llamasnyk">
+<a href="https://snyk.io/test/github/ken-fugue/llamasnyk">
 
 # LLaMA 
 
