@@ -1,6 +1,6 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/{username}/{repo}/badge.svg)]
+[![Known Vulnerabilities](https://snyk.io/test/github/ken-fugue/llamasnyk/badge.svg)]
 
-(https://snyk.io/test/github/{username}/{repo})
+(https://snyk.io/test/github/ken-fugue/llamasnyk)
 
 # LLaMA 
 
