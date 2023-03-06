@@ -1,3 +1,5 @@
+<*a href="https://snyk.io/test/github/ken-fugue/llamasnyk">
+
 # LLaMA 
 
 This repository is intended as a minimal, hackable and readable example to load [LLaMA](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/) models and run inference.
